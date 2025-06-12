@@ -2,7 +2,8 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~. Prova prova
+Text can be **bold**, _italic_, or ~~strikethrough~~.
+Prova Prova
 
 [Link to another page](./another-page.html).
 
